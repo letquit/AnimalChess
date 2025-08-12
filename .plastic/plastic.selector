@@ -1,4 +1,0 @@
-repository "AnimalChess/AnimalChess@33260540342675@cloud"
-  path "/"
-    br "/main"
-    co "/main"
